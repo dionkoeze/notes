@@ -1,5 +1,6 @@
-# Notes on programming languages
+# Random notes
 
-This repository contains notes on the ideas behind programming languages. The goal of these notes is to understand why we have the concepts we use today to design languages and to come up with new concepts to design languages in the future.
+This repository contains a bunch of notes on random ideas. There is a list of the notes here and their topics.
 
-Even though the notes are ordered, there is no idea behind the ordering other than their time of creation. 
+- 001 Scope
+- 002 Curriculum modeling
